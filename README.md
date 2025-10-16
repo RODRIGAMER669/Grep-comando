@@ -8,4 +8,4 @@ Este proyecto debería poder filtrar desde el `Filtrador.java` detectar las lín
 
 ## Problemas
 
-El código compila pero no funciona como se espera.
+El código compila pero me daba error en el junit y no puse hacer las pruebas
